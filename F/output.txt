@@ -1,0 +1,12 @@
+DANH SACH NHAN VIEN:
+123 - Nguyen Van A - Phong A - Luong: 2000
+124 - Tran Thi B - Phong B - Luong: 3000
+125 - Nguyen Van C - Phong C - Luong: 2900
+
+NHAN VIEN CO LUONG CAO NHAT:
+124 - Tran Thi B - Phong B - Luong: 3000
+
+SO LUONG NHAN VIEN THEO PHONG:
+Phong A: 1
+Phong B: 1
+Phong C: 1

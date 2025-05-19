@@ -1,0 +1,15 @@
+3
+123
+Nguyen Van A
+A
+2000
+124
+Tran Thi B
+B
+3000
+125
+Nguyen Van C
+C
+2900
+
+
